@@ -1,0 +1,21 @@
+{
+    "name": "koomai/laravel-twilio-sms",
+    "description": "Twilio SMS driver for Laravel Notifications",
+    "keywords": ["laravel", "twilio", "sms", "notifications"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sid",
+            "homepage": "http://twitter.com/koomai"
+        }
+    ],
+    "require": {
+        "aloha/twilio": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koomai\\Twilio\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
