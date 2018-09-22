@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "aloha/twilio": "^2.1"
+        "aloha/twilio": "^4.0"
     },
     "autoload": {
         "psr-4": {
